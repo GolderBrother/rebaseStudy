@@ -4,3 +4,4 @@ A commit 3
 A commit 4
 A commit 5
 A commit 6
+A commit 7
