@@ -4,7 +4,7 @@
 
 a.txt文件commit之后，rebase main 之前是这样的 👇
 
-![a-commit8-9-before](./a-commit8-9-before-rebase.png)
+![a-commit8-9-before-rebase](./a-commit8-9-before-rebase.png)
 
 a.txt文件commit之后，rebase main 之后是这样的 👇
 
