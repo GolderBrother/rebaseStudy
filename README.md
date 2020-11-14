@@ -8,7 +8,7 @@ a.txt文件commit之后，rebase main 之前是这样的 👇
 
 a.txt文件commit之后，rebase main 之后是这样的 👇
 
-![a-commit8-9-after-rebase.png](./a-commit8-9-after-rebase.png)
+![a-commit8-9-after-rebase](./a-commit8-9-after-rebase.png)
 
 发现采用rebase的方式进行分支合并，整个master分支并没有多出一个新的commit，原来dev分支上的那几次（C3，C4，C5）commit在rebase之后其hash值发生了变化，不在是当初在dev分支上提交的时候的hash值了，但是提交的内容被全部复制保留了，并且整个master分支的commit记录呈线性记录
 
